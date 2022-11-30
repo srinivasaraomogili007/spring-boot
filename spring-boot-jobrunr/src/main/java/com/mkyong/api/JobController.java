@@ -47,6 +47,7 @@ public class JobController {
 
         return "Job is scheduled.";
     }
+	
 	public string updateJobInfo() {
 		return null;
 	}
